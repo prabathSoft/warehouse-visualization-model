@@ -1,4 +1,5 @@
-# 🏭 Warehouse Digital Map
+# 🏭 Warehouse Geo‑Mapping Platform (WGMP)
+<img width="1536" height="1024" alt="Copilot_20260524_084433" src="https://github.com/user-attachments/assets/5f695d87-9282-476b-a6df-a618feae8cfd" />
 
 A modern, interactive web-based warehouse visualization and inventory management system. This single-page HTML application provides real-time visualization of warehouse storage locations, merchant density analysis, and consolidation management with an intuitive interface for efficient warehouse operations.
 
